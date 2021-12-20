@@ -1,0 +1,82 @@
+body{
+    background-color:white;
+    padding: 0;
+    margin: 1em;
+    min-width: 100%;
+    overflow-x: hidden;
+    height: 100vh;
+    overflow-y: hidden;
+}
+.required {
+    color: red;
+  }
+  .Name
+  {
+      font-size: 100%;
+      font-weight:600px;
+      font-family: Arial, Helvetica, sans-serif;
+      }
+  #fname{
+    width:200px;
+    
+}
+.small{
+    margin:0;
+    margin-top: -5px;
+    padding: 0;
+    display: flex;
+    grid-auto-flow:column;
+      font-size: 10px;
+      gap:19.3em;
+      height: 0%;
+      font-family: Arial, Helvetica, sans-serif;
+}
+  .lname{
+      width: 200px;
+  }
+  .email{
+  width:411px;
+height: 0%;
+
+  }
+  .emaill{
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 700;
+  }
+
+.checked{
+    color: orange;
+}
+.over{
+     margin:0; 
+    margin-top: 1.9px;
+    /* padding: 0;  */
+     font-size:12px; 
+    
+}
+.your{
+    font-size:10px;
+    font-weight: 600;
+     
+}
+.sati{
+    font-size:10px;
+    font-weight: 600;
+    margin-top: 1%;
+}
+.tb{
+    border-collapse: collapse;
+    border-width: 5px;
+    font-size: 15px;
+    column-gap: 200%;
+    width :"100px";
+}
+  .go{
+      font-size: 7.5px;
+  }
+  .radio{
+      font-size: 15px;
+  }
+  .go1{
+    font-size: 7.5px;
+       }
